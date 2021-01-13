@@ -1,0 +1,21 @@
+This is a more detailed version of the editing history on ResumeProject1.
+
+12/16/2020 11:55pm (Started ResumeProject1 added the main and RPS functions. Made the menu and option choosing for RPS and called RPS in main
+to test RPS.)
+
+12/17/2020 11:47pm (Started getting RPS done now gets option from player and computer and prints out a hand symbol for which option 
+determining winner needs finishing.)
+
+12/18/2020 9:58pm (Finished RPS function.)
+
+12/19/2020 4:27am (Worked on a menu for ResumeProject1 in main.cpp Started on BDH functions.)
+
+12/30/2020 3:43am (Worked on the DB function for BDH and started on DH.)
+
+1/3/2021 4:53am (Finished DH.)
+
+1/4/2021 7:43pm (finished HD BDH just needs the menu done and to be tested.)
+
+1/11/2021 3:08am (worked on BDH updated main tested BDH as far as I can tell it all works may require further testing.)
+
+1/12/2021 8:46am (Debugging main and BDH after adding precautions in case of invalid.)
